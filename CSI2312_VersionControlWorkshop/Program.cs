@@ -10,8 +10,7 @@ namespace CSI2312_FinalAssessment
     class Program
     {
         static void Task01(int[] data)
-        {
-            // modify the following line!            
+        {       
             Console.WriteLine("press any key to continue");
             Console.ReadKey();
         }
