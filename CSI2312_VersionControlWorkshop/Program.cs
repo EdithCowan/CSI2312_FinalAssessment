@@ -11,8 +11,7 @@ namespace CSI2312_FinalAssessment
     {
         static void Task01(int[] data)
         {
-            // modify the following line!
-            Console.WriteLine("This is the submission of: [YOUR NAME HERE]");
+            // modify the following line!            
             Console.WriteLine("press any key to continue");
             Console.ReadKey();
         }
@@ -41,6 +40,7 @@ namespace CSI2312_FinalAssessment
             while (true)
             {
                 Console.Clear();
+                Console.WriteLine("This is the submission of: [YOUR NAME HERE]\n");
                 int index = 0;
                 Console.Write("The current data is: [");
                 foreach (int x in data)
