@@ -39,7 +39,7 @@ namespace CSI2312_FinalAssessment
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("This is the submission of: [YOUR NAME HERE]\n");
+                Console.WriteLine("This is the submission of: [KANKANAM GEDARA HASHAN MADUSHANKA ABEYRATHNE]\n");
                 int index = 0;
                 Console.Write("The current data is: [");
                 foreach (int x in data)
