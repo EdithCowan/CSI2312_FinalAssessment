@@ -3,7 +3,7 @@
 // 
 // Code for the git question of the final assessment - enjoy!
 //
-// Edith Cowan University, 2022 - Martin Masek
+// Edith Cowan University, 2023 - Martin Masek
 
 namespace CSI2312_FinalAssessment
 {
