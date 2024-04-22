@@ -1,9 +1,9 @@
 ﻿using System;
 // CSI2312 - Foundations of Software Engineering
 // 
-// Code for the git question of the final assessment - enjoy!
+// Code for the git question of the assessment - enjoy!
 //
-// Edith Cowan University, 2023 - Martin Masek
+// Edith Cowan University, 2024 - Martin Masek
 
 namespace CSI2312_FinalAssessment
 {
